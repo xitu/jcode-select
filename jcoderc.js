@@ -39,7 +39,7 @@ export default {
       folded: true,
       name: '精彩代码',
       collection: [
-        {name: '3d fox', author: 'akira-cn', id: '7111233570496053255'},
+        {name: '架子鼓', author: 'akira-cn', id: '7111233570496053255'},
       ],
     },
   ],
