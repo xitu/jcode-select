@@ -14,7 +14,7 @@ http://www.jcode.pub/
 |---|---|---|
 |玩转码上掘金|介绍码上掘金的用法|[jcode.pub](https://www.jcode.pub/)|
 |编程语言合辑|码上掘金支持的编程语言|[languages](https://www.jcode.pub/?languages)|
-|JavaScript练习合辑|原生JavaScript代码练习|[languages](https://www.jcode.pub/?javascript30)|
+|JavaScript练习合辑|原生JavaScript代码练习|[javascript30](https://www.jcode.pub/?javascript30)|
 |Spritejs Demos|Spritejs的官方例子|[spritejs](https://www.jcode.pub/?spritejs)|
 |文言 Demos|文言文编程的例子|[wenyan](https://www.jcode.pub/?wenyan)|
-|CSS-Doodle Demos|CSS-Doodle的官方例子|[wenyan](https://www.jcode.pub/?css-doodle)|
+|CSS-Doodle Demos|CSS-Doodle的官方例子|[css-doodle](https://www.jcode.pub/?css-doodle)|
