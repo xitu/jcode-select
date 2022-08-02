@@ -216,7 +216,7 @@ iframe {
     width: 300px;
     margin-left: -300px;
     padding: 10px 0;
-    background: #2d2a2a;
+    background: rgb(20,26,35);
     transition: all .3s ease-out;
     height: calc(100vh - 80px);
     box-sizing: border-box;
@@ -225,7 +225,7 @@ iframe {
   }
   #sidebar.show .sidebar-menu {
     margin-left: 0;
-    opacity: 100%;
+    opacity: 1;
   }
   main.max #sidebar {
     height: 0;
