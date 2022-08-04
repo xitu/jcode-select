@@ -9,7 +9,7 @@ export default {
       collection: [
         {name: '码上掘金简介', author: 'akira-cn', id: '7127211087010725902', default: true},
         {name: '使用码上掘金', author: 'akira-cn', id: '7127212028904767495'},
-        {name: 'JS 和 TS', author: 'akira-cn', id: '7127212396124307493'},
+        {name: 'TypeScript', author: 'akira-cn', id: '7127212396124307493'},
         {name: '前端框架 React', author: 'akira-cn', id: '7127212565695823880'},
         {name: '前端框架 Vue', author: 'akira-cn', id: '7127212771376103431'},
         {name: '系统设置', author: 'akira-cn', id: '7127212875076075550'},
